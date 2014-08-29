@@ -1,0 +1,18 @@
+.header{
+	background-color: blue;
+	height: 50px;
+}
+
+.footer{
+	background-color: green;
+	height: 50px;
+}
+
+.left-menu{
+	background-color: navy;
+	
+}
+
+.center{
+	height: 800px;
+}
